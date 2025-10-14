@@ -48,9 +48,9 @@ const projects = [
         link: "#"
     },
     {
-        title: "Gallery Content Management",
-        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=Gallery+CMS",
-        description: "A custom content management system designed specifically for art galleries to manage exhibitions, artists, and artwork information with an intuitive admin interface.",
+        title: "School Projects",
+        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=School+Projects",
+        description: "Assisted in the digital presentation and formatting of academic projects for students.",
         link: "#"
     }
 ];
@@ -271,4 +271,5 @@ window.addEventListener('scroll', fadeInElements);
 window.addEventListener('load', () => {
     fadeInElements();
     animateSkillBars();
+
 });
