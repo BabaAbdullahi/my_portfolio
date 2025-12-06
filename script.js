@@ -18,9 +18,9 @@ const modalLink = document.getElementById('modalLink');
 // Project data for modal
 const projects = [
     {
-        title: "Deep Learning Based Object Detection System",
-        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=Object+Detection",
-        description: "An AI-powered system for real-time object detection and classification using deep learning algorithms. This project demonstrates advanced computer vision techniques and neural network implementation.",
+        title: "DBN Pharmacy",
+        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=DBN+Pharma",
+        description: "Designed and generated professional receipts for DBN Pharmacy to improve transaction documentation.",
         link: "#"
     },
     {
@@ -273,3 +273,4 @@ window.addEventListener('load', () => {
     animateSkillBars();
 
 });
+
