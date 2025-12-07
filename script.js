@@ -18,9 +18,9 @@ const modalLink = document.getElementById('modalLink');
 // Project data for modal
 const projects = [
     {
-        title: "DBN Pharmacy",
+        title: "DBN Pharmacy & NOREAST Pharmacy",
         image: "https://placehold.co/600x400/1e3a8a/ffffff?text=DBN+Pharma",
-        description: "Designed and generated professional receipts for DBN Pharmacy to improve transaction documentation.",
+        description: "Designed and generated professional receipts for DBN Pharmacy to improve transaction documentation. Created the company profile, advertisement materials, and invoice templates for Noreast Pharmaceuticals Ltd.",
         link: "#"
     },
     {
@@ -273,4 +273,5 @@ window.addEventListener('load', () => {
     animateSkillBars();
 
 });
+
 
