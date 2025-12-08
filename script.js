@@ -30,13 +30,13 @@ const projects = [
         link: "#"
     },
     {
-        title: "WooCommerce Website Design",
-        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=WooCommerce+Store",
+        title: "Seenders Arts WooCommerce Website",
+        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=Seenders+Arts+WooCommerce+Store",
         description: "Developed and customized an e-commerce art website using WooCommerce to showcase and sell artworks online.",
         link: "https://seendersarts.com"
     },
     {
-        title: "Virtual/Office Support for Individuals & Organizations",
+        title: "Virtual/Office Support",
         image: "https://placehold.co/600x400/1e3a8a/ffffff?text=Virtual+Office+Support+for+Individuals+Organization",
         description: "Assisted clients with administrative tasks including document preparation, data organization, scheduling, and online communications.",
         link: "#"
@@ -273,6 +273,7 @@ window.addEventListener('load', () => {
     animateSkillBars();
 
 });
+
 
 
 
