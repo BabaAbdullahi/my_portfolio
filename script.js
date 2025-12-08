@@ -19,33 +19,33 @@ const modalLink = document.getElementById('modalLink');
 const projects = [
     {
         title: "DBN Pharmacy & NOREAST Pharmacy",
-        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=DBN+Pharma",
-        description: "Designed and generated professional receipts for DBN Pharmacy to improve transaction documentation. Created the company profile, advertisement materials, and invoice templates for Noreast Pharmaceuticals Ltd.",
+        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=DBN+Pharma+NOREAST Pharma",
+        description: "Designed receipts and promotional content such as flyers, banners, and social media graphics to support the pharmacy’s branding and outreach.",
         link: "#"
     },
     {
-        title: "Antidiabetic Effect of Mint Plants",
-        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=Antidiabetic+Research",
-        description: "Scientific research on the medicinal properties of mint plants, focusing on their potential antidiabetic effects. This project involved data collection, analysis, and scientific documentation.",
+        title: "Female Artist Association of Nigeria",
+        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=Female+Artist+Association+of+Nigeria",
+        description: "Created exhibition backdrops and generated QR codes to enhance visitor engagement and improve access to artist information.",
         link: "#"
     },
     {
         title: "WooCommerce Website Design",
         image: "https://placehold.co/600x400/1e3a8a/ffffff?text=WooCommerce+Store",
-        description: "A fully customized e-commerce solution built with WooCommerce, featuring secure payment integration, product management, and responsive design for optimal user experience.",
+        description: "Developed and customized an e-commerce art website using WooCommerce to showcase and sell artworks online.",
+        link: "https://seendersarts.com"
+    },
+    {
+        title: "Virtual/Office Support for Individuals & Organizations",
+        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=Virtual+Office+Support+for+Individuals+Organization",
+        description: "Assisted clients with administrative tasks including document preparation, data organization, scheduling, and online communications.",
         link: "#"
     },
     {
-        title: "Data Collection Tool for NGO",
-        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=NGO+Data+Tool",
-        description: "A specialized data management system developed for a non-profit organization to streamline their data collection processes, improve reporting, and enhance operational efficiency.",
-        link: "#"
-    },
-    {
-        title: "Bootstrap Responsive Website",
-        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=Responsive+Website",
+        title: "Sales Template & Artwork Inventory for Nike Art Gallery Abuja",
+        image: "https://placehold.co/600x400/1e3a8a/ffffff?text=Sale+Template+&+Artwork+Inventory+for+Nike+Art+Gallery+Abuja",
         description: "A fully responsive website built with the Bootstrap framework, ensuring optimal viewing experience across all device sizes with a clean, modern design.",
-        link: "#"
+        link: "https://nikeartfoundation.com"
     },
     {
         title: "School Projects",
@@ -273,5 +273,6 @@ window.addEventListener('load', () => {
     animateSkillBars();
 
 });
+
 
 
